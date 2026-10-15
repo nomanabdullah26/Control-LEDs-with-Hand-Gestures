@@ -40,7 +40,7 @@ This project uses a webcam to detect hand gestures and count raised fingers in r
 
 | Finger Count: 0 (All LEDs OFF) | Finger Count: 2 (2 LEDs ON) | Finger Count: 5 (All 5 LEDs ON) |
 | :---: | :---: | :---: |
-| ![Finger Count 0](project%20photo-3.jpg) | ![Finger Count 2](project%20photo-1.jpg) | ![Finger Count 5](project%20photo-2.jpg) |
+| ![Finger Count 0](project%20photo-3.png) | ![Finger Count 2](project%20photo-1.png) | ![Finger Count 5](project%20photo-2.png) |
 
 ---
 
